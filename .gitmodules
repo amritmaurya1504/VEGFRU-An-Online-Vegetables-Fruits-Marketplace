@@ -1,0 +1,6 @@
+[submodule "vegfru-client"]
+	path = vegfru-client
+	url = https://github.com/amritmaurya1504/vegfru-client.git
+[submodule "vegfru-api"]
+	path = vegfru-api
+	url = https://github.com/amritmaurya1504/vegfru-api.git
