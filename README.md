@@ -41,6 +41,14 @@ This project is built using modern web technologies, including:
 
 ![Authentication Page](https://res.cloudinary.com/amritrajmaurya/image/upload/v1681939803/Screenshot_2023-04-20_025643_sk7zru.png)
 
+### Checkout Page
+
+![Checkout Page](https://res.cloudinary.com/amritrajmaurya/image/upload/v1683207622/Screenshot_2023-05-04_000135_m4nl0l.png)
+
+### Add Address Page
+
+![Address Page](https://res.cloudinary.com/amritrajmaurya/image/upload/v1683207623/Screenshot_2023-05-04_000200_ozr4z1.png)
+
 ### About Page
 
 ![About Page](https://res.cloudinary.com/amritrajmaurya/image/upload/v1682114151/Screenshot_2023-04-22_032216_ibbtbu.png)
