@@ -27,6 +27,10 @@ Source code has Private access only.
 
 Welcome to the Online Vegetable and Fruit Marketplace project! This platform is designed to connect customers with nearby vendors selling fresh fruits and vegetables. With an easy-to-use interface, customers can search for vendors on a map, view product listings, and place orders securely through a payment gateway.
 
+```
+Note: Fully Mobile Responsive
+```
+
 ## <p class="headingTwo">Features</p>
 
 - Search for nearby vendors on a map
@@ -52,52 +56,24 @@ This project is built using modern web technologies, including:
   <img height="150" src="https://res.cloudinary.com/amritrajmaurya/image/upload/v1681939802/Screenshot_2023-04-20_025705_ngbkau.png" alt="Mobile Responsive" >
   <img height="150" src="https://res.cloudinary.com/amritrajmaurya/image/upload/v1683207623/Screenshot_2023-05-04_000200_ozr4z1.png" alt="Mobile Responsive" >
   <img height="150" src="https://res.cloudinary.com/amritrajmaurya/image/upload/v1681939803/Screenshot_2023-04-20_025643_sk7zru.png" alt="Mobile Responsive" >
-  <img height="150" src="https://res.cloudinary.com/amritrajmaurya/image/upload/v1681939802/Screenshot_2023-04-20_025705_ngbkau.png" alt="Mobile Responsive" >
-  <img height="150" src="https://res.cloudinary.com/amritrajmaurya/image/upload/v1683207623/Screenshot_2023-05-04_000200_ozr4z1.png" alt="Mobile Responsive" >
-  <img height="150" src="https://res.cloudinary.com/amritrajmaurya/image/upload/v1681939803/Screenshot_2023-04-20_025643_sk7zru.png" alt="Mobile Responsive" >
+  <img height="150" src="https://res.cloudinary.com/amritrajmaurya/image/upload/v1681939802/Screenshot_2023-04-20_025717_mjhf6k.png" alt="Mobile Responsive" >
+  <img height="150" src="https://res.cloudinary.com/amritrajmaurya/image/upload/v1683207622/Screenshot_2023-05-04_000135_m4nl0l.png" alt="Mobile Responsive" >
+  <img height="150" src="https://res.cloudinary.com/amritrajmaurya/image/upload/v1682114151/Screenshot_2023-04-22_032216_ibbtbu.png" alt="Mobile Responsive" >
+  <img height="150" src="https://res.cloudinary.com/amritrajmaurya/image/upload/v1682114151/Screenshot_2023-04-22_032159_uvthxc.png" alt="Mobile Responsive" >
 </div>
 
-
-### Banner Page
-
-![Banner Page](https://res.cloudinary.com/amritrajmaurya/image/upload/v1681939802/Screenshot_2023-04-20_025705_ngbkau.png)
-
-### Authentication Page
-
-![Authentication Page](https://res.cloudinary.com/amritrajmaurya/image/upload/v1681939802/Screenshot_2023-04-20_025717_mjhf6k.png)
-
-### Dashboard Page
-
-![Authentication Page](https://res.cloudinary.com/amritrajmaurya/image/upload/v1681939803/Screenshot_2023-04-20_025643_sk7zru.png)
-
-### Checkout Page
-
-![Checkout Page](https://res.cloudinary.com/amritrajmaurya/image/upload/v1683207622/Screenshot_2023-05-04_000135_m4nl0l.png)
-
-### Add Address Page
-
-![Address Page](https://res.cloudinary.com/amritrajmaurya/image/upload/v1683207623/Screenshot_2023-05-04_000200_ozr4z1.png)
-
-### About Page
-
-![About Page](https://res.cloudinary.com/amritrajmaurya/image/upload/v1682114151/Screenshot_2023-04-22_032216_ibbtbu.png)
-
-### About Page
-
-![Profile Page](https://res.cloudinary.com/amritrajmaurya/image/upload/v1682114151/Screenshot_2023-04-22_032159_uvthxc.png)
-
-![Profile Page](https://res.cloudinary.com/amritrajmaurya/image/upload/v1682114151/Screenshot_2023-04-22_032233_tg1iji.png)
 
 ### Mobile Responsive
 
-<div style="display: flex; flex-direction: row;">
-  <img style="height : 250px , widht : 100px" src="https://res.cloudinary.com/amritrajmaurya/image/upload/v1681939802/Screenshot_2023-04-20_025823_dkxrej.png" alt="Mobile Responsive" >
-  <img style="height : 250px , widht : 100px; margin-left : 9px" src="https://res.cloudinary.com/amritrajmaurya/image/upload/v1681939801/Screenshot_2023-04-20_025744_cobwdp.png" alt="Mobile Responsive" >
-  <img style="height : 250px , widht : 100px; margin-left : 9px" src="https://res.cloudinary.com/amritrajmaurya/image/upload/v1681940626/Screenshot_2023-04-20_031326_xiwcdh.png" alt="Mobile Responsive" >
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
+  <img style="height : 100px , widht : 100px" src="https://res.cloudinary.com/amritrajmaurya/image/upload/v1681939802/Screenshot_2023-04-20_025823_dkxrej.png" alt="Mobile Responsive" >
+  <img style="height : 100px , widht : 100px;" src="https://res.cloudinary.com/amritrajmaurya/image/upload/v1681939801/Screenshot_2023-04-20_025744_cobwdp.png" alt="Mobile Responsive" >
+  <img style="height : 100px , widht : 100px;" src="https://res.cloudinary.com/amritrajmaurya/image/upload/v1681940626/Screenshot_2023-04-20_031326_xiwcdh.png" alt="Mobile Responsive" >
 </div>
 
 
+<br />
 
-## Contact
+## <p class="headingTwo">Contact</p>
 
 If you have any questions or feedback, please contact us at amritmaurya2014@gmail.com We'd love to hear from you!
