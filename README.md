@@ -63,15 +63,6 @@ This project is built using modern web technologies, including:
 </div>
 
 
-### Mobile Responsive
-
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
-  <img style="height : 100px , widht : 100px" src="https://res.cloudinary.com/amritrajmaurya/image/upload/v1681939802/Screenshot_2023-04-20_025823_dkxrej.png" alt="Mobile Responsive" >
-  <img style="height : 100px , widht : 100px;" src="https://res.cloudinary.com/amritrajmaurya/image/upload/v1681939801/Screenshot_2023-04-20_025744_cobwdp.png" alt="Mobile Responsive" >
-  <img style="height : 100px , widht : 100px;" src="https://res.cloudinary.com/amritrajmaurya/image/upload/v1681940626/Screenshot_2023-04-20_031326_xiwcdh.png" alt="Mobile Responsive" >
-</div>
-
-
 <br />
 
 ## <p class="headingTwo">Contact</p>
