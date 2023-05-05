@@ -1,19 +1,5 @@
-<style>
-.red-text {
-    color: red;
-}
-.heading {
-  font-weight : 700
-}
-.headingTwo {
-  font-weight : 600
-}
-.green {
-  color :rgb(34 197 94); 
-}
-</style>
 
-# <p class="heading">Online <span class="green">Vegetable</span> and Fruit Marketplace (VegFru)</p> 
+# <p class="heading" style="font-weight : 600">Online <span style="color : rgb(34 197 94)">Vegetable</span> and Fruit Marketplace (VegFru)</p> 
 
 
 ``` 
@@ -21,7 +7,7 @@ Source code has Private access only.
 ```
 
 
-## <p class="red-text">**Build in progress**** </p> 
+## <p style="font-weight : 600">**Build in progress**** </p> 
 
 
 
@@ -31,7 +17,7 @@ Welcome to the Online Vegetable and Fruit Marketplace project! This platform is 
 Note: Fully Mobile Responsive
 ```
 
-## <p class="headingTwo">Features</p>
+## <p style="font-weight : 600">Features</p>
 
 - Search for nearby vendors on a map
 - View vendor profiles and product listings on map
@@ -39,7 +25,7 @@ Note: Fully Mobile Responsive
 - Track orders in real-time
 - Vendor dashboard for managing inventory and processing orders
 
-## <p class="headingTwo">Technologies Used</p>
+## <p style="font-weight : 600">Technologies Used</p>
 
 This project is built using modern web technologies, including:
 
@@ -50,7 +36,7 @@ This project is built using modern web technologies, including:
 - Mapbox API for location-based searches and map integration
 - Razorpay for secure payments
 
-## <p class="headingTwo">Screenshots</p>
+## <p style="font-weight : 600">Screenshots</p>
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
   <img height="150" src="https://res.cloudinary.com/amritrajmaurya/image/upload/v1681939802/Screenshot_2023-04-20_025705_ngbkau.png" alt="Mobile Responsive" >
@@ -65,6 +51,6 @@ This project is built using modern web technologies, including:
 
 <br />
 
-## <p class="headingTwo">Contact</p>
+## <p style="font-weight : 600">Contact</p>
 
 If you have any questions or feedback, please contact us at amritmaurya2014@gmail.com We'd love to hear from you!
