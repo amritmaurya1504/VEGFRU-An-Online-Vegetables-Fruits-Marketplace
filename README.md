@@ -36,7 +36,7 @@ This project is built using modern web technologies, including:
 - Mapbox API for location-based searches and map integration
 - Razorpay for secure payments
 
-## <p style="font-weight : 600">Screenshots</p>
+## <p style="font-weight : 600">Client Side Screenshots</p>
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
   <img height="150" src="https://res.cloudinary.com/amritrajmaurya/image/upload/v1681939802/Screenshot_2023-04-20_025705_ngbkau.png" alt="Mobile Responsive" >
