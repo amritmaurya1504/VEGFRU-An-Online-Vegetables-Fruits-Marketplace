@@ -4,6 +4,3 @@
 [submodule "vegfru-api"]
 	path = vegfru-api
 	url = https://github.com/amritmaurya1504/vegfru-api.git
-[submodule "vegfru-vendors"]
-	path = vegfru-vendor
-	url = https://github.com/sampriti27/vegfru-vendor.git
