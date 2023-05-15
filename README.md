@@ -49,6 +49,15 @@ This project is built using modern web technologies, including:
   <img height="150" src="https://res.cloudinary.com/amritrajmaurya/image/upload/v1683664358/Screenshot_2023-05-08_194429_r3caxp.png" alt="Mobile Responsive" >
 </div>
 
+## <p style="font-weight : 600">Vendor Side Screenshots</p>
+
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
+  <img height="150" src="https://res.cloudinary.com/amritrajmaurya/image/upload/v1684181208/Screenshot_2023-05-16_013018_q5rya0.png" alt="Mobile Responsive" >
+  <img height="150" src="https://res.cloudinary.com/amritrajmaurya/image/upload/v1684181207/Screenshot_2023-05-16_013034_cjpato.png" alt="Mobile Responsive" >
+  <img height="150" src="https://res.cloudinary.com/amritrajmaurya/image/upload/v1684181356/Screenshot_2023-05-16_013835_bsmk5b.png" alt="Mobile Responsive" >
+
+</div>
+
 
 <br />
 
