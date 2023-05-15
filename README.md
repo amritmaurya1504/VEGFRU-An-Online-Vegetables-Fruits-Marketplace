@@ -10,6 +10,13 @@ Source code has Private access only.
 ## <p style="font-weight : 600">**Build in progress**** </p> 
 
 
+<br />
+
+[![Website](https://img.shields.io/website?label=Vegfru-client&style=for-the-badge&url=http://vegfru.vercel.app/)](http://vegfru.vercel.app/)
+
+[![Website](https://img.shields.io/website?label=Vegfru-vendor&style=for-the-badge&url=https://vendor-tau.vercel.app/)](https://vendor-tau.vercel.app/)
+
+
 
 Welcome to the Online Vegetable and Fruit Marketplace project! This platform is designed to connect customers with nearby vendors selling fresh fruits and vegetables. With an easy-to-use interface, customers can search for vendors on a map, view product listings, and place orders securely through a payment gateway.
 
