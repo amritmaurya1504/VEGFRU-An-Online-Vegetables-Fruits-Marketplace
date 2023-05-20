@@ -53,7 +53,8 @@ This project is built using modern web technologies, including:
   <img height="150" src="https://res.cloudinary.com/amritrajmaurya/image/upload/v1683207622/Screenshot_2023-05-04_000135_m4nl0l.png" alt="Mobile Responsive" >
   <img height="150" src="https://res.cloudinary.com/amritrajmaurya/image/upload/v1682114151/Screenshot_2023-04-22_032216_ibbtbu.png" alt="Mobile Responsive" >
   <img height="150" src="https://res.cloudinary.com/amritrajmaurya/image/upload/v1682114151/Screenshot_2023-04-22_032159_uvthxc.png" alt="Mobile Responsive" >
-  <img height="150" src="https://res.cloudinary.com/amritrajmaurya/image/upload/v1683664358/Screenshot_2023-05-08_194429_r3caxp.png" alt="Mobile Responsive" >
+  <img height="150" src="https://res.cloudinary.com/amritrajmaurya/image/upload/v1684591317/Screenshot_2023-05-19_221542_zbqgqy.png" alt="Mobile Responsive" >
+  <img height="150" src="https://res.cloudinary.com/amritrajmaurya/image/upload/v1684591366/Screenshot_2023-05-19_221604_ziio1s.png" alt="Mobile Responsive" >
 </div>
 
 ## <p style="font-weight : 600">Vendor Side Screenshots</p>
