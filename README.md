@@ -48,13 +48,15 @@ This project is built using modern web technologies, including:
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
   <img height="150" src="https://res.cloudinary.com/amritrajmaurya/image/upload/v1681939802/Screenshot_2023-04-20_025705_ngbkau.png" alt="Mobile Responsive" >
   <img height="150" src="https://res.cloudinary.com/amritrajmaurya/image/upload/v1683207623/Screenshot_2023-05-04_000200_ozr4z1.png" alt="Mobile Responsive" >
-  <img height="150" src="https://res.cloudinary.com/amritrajmaurya/image/upload/v1681939803/Screenshot_2023-04-20_025643_sk7zru.png" alt="Mobile Responsive" >
+  <img height="150" src="https://res.cloudinary.com/amritrajmaurya/image/upload/v1685011481/Screenshot_2023-05-25_161424_nrwgx5.png" alt="Mobile Responsive" >
   <img height="150" src="https://res.cloudinary.com/amritrajmaurya/image/upload/v1681939802/Screenshot_2023-04-20_025717_mjhf6k.png" alt="Mobile Responsive" >
-  <img height="150" src="https://res.cloudinary.com/amritrajmaurya/image/upload/v1683207622/Screenshot_2023-05-04_000135_m4nl0l.png" alt="Mobile Responsive" >
+  <img height="150" src="https://res.cloudinary.com/amritrajmaurya/image/upload/v1685011326/Screenshot_2023-05-25_160646_ybqkjh.png" alt="Mobile Responsive" >
   <img height="150" src="https://res.cloudinary.com/amritrajmaurya/image/upload/v1682114151/Screenshot_2023-04-22_032216_ibbtbu.png" alt="Mobile Responsive" >
   <img height="150" src="https://res.cloudinary.com/amritrajmaurya/image/upload/v1682114151/Screenshot_2023-04-22_032159_uvthxc.png" alt="Mobile Responsive" >
-  <img height="150" src="https://res.cloudinary.com/amritrajmaurya/image/upload/v1684591317/Screenshot_2023-05-19_221542_zbqgqy.png" alt="Mobile Responsive" >
-  <img height="150" src="https://res.cloudinary.com/amritrajmaurya/image/upload/v1684591366/Screenshot_2023-05-19_221604_ziio1s.png" alt="Mobile Responsive" >
+  <img height="150" src="https://res.cloudinary.com/amritrajmaurya/image/upload/v1685011326/Screenshot_2023-05-25_160632_oc4i45.png" alt="Mobile Responsive" >
+  <img height="150" src="https://res.cloudinary.com/amritrajmaurya/image/upload/v1685011326/Screenshot_2023-05-25_160639_yzqu5r.png" alt="Mobile Responsive" >
+  <img height="150" src="https://res.cloudinary.com/amritrajmaurya/image/upload/v1685011326/Screenshot_2023-05-25_160525_jnykd3.png" alt="Mobile Responsive" >
+  <img height="150" src="https://res.cloudinary.com/amritrajmaurya/image/upload/v1685011326/Screenshot_2023-05-25_160549_kno8un.png" alt="Mobile Responsive" >
 </div>
 
 ## <p style="font-weight : 600">Vendor Side Screenshots</p>
