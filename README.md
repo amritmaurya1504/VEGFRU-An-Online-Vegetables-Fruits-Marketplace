@@ -43,6 +43,14 @@ This project is built using modern web technologies, including:
 - Mapbox API for location-based searches and map integration
 - Razorpay for secure payments
 
+[Click here to view the flow of VegFru](https://www.figma.com/file/Hw0DDRTkaWtTBYIWJwBNTS/A-Online-Vegetables-%26-Fruits-Marketplace-(VegFru)?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FHw0DDRTkaWtTBYIWJwBNTS%2FA-Online-Vegetables-%2526-Fruits-Marketplace-(VegFru)%3Ftype%3Dwhiteboard%26node-id%3D0%253A1%26t%3DHbiEzStvoB4NFmNX-1)
+
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FHw0DDRTkaWtTBYIWJwBNTS%2FA-Online-Vegetables-%2526-Fruits-Marketplace-(VegFru)%3Ftype%3Dwhiteboard%26node-id%3D0%253A1%26t%3DHbiEzStvoB4NFmNX-1" allowfullscreen></iframe>
+
+
+
+
 ## <p style="font-weight : 600">Client Side Screenshots</p>
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
