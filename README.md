@@ -20,6 +20,8 @@ Source code has Private access only.
 
 Welcome to the Online Vegetable and Fruit Marketplace project! This platform is designed to connect customers with nearby vendors selling fresh fruits and vegetables. With an easy-to-use interface, customers can search for vendors on a map, view product listings, and place orders securely through a payment gateway.
 
+[Click here to view the flow of VegFru](https://www.figma.com/file/Hw0DDRTkaWtTBYIWJwBNTS/A-Online-Vegetables-%26-Fruits-Marketplace-(VegFru)?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FHw0DDRTkaWtTBYIWJwBNTS%2FA-Online-Vegetables-%2526-Fruits-Marketplace-(VegFru)%3Ftype%3Dwhiteboard%26node-id%3D0%253A1%26t%3DHbiEzStvoB4NFmNX-1)
+
 ```
 Note: Fully Mobile Responsive
 ```
@@ -43,10 +45,9 @@ This project is built using modern web technologies, including:
 - Mapbox API for location-based searches and map integration
 - Razorpay for secure payments
 
-[Click here to view the flow of VegFru](https://www.figma.com/file/Hw0DDRTkaWtTBYIWJwBNTS/A-Online-Vegetables-%26-Fruits-Marketplace-(VegFru)?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FHw0DDRTkaWtTBYIWJwBNTS%2FA-Online-Vegetables-%2526-Fruits-Marketplace-(VegFru)%3Ftype%3Dwhiteboard%26node-id%3D0%253A1%26t%3DHbiEzStvoB4NFmNX-1)
 
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FHw0DDRTkaWtTBYIWJwBNTS%2FA-Online-Vegetables-%2526-Fruits-Marketplace-(VegFru)%3Ftype%3Dwhiteboard%26node-id%3D0%253A1%26t%3DHbiEzStvoB4NFmNX-1" allowfullscreen></iframe>
+
 
 
 
