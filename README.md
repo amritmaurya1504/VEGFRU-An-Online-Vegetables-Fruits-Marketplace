@@ -38,11 +38,12 @@ Note: Fully Mobile Responsive
 
 This project is built using modern web technologies, including:
 
-- React for the frontend
-- Node.js for the backend
+- ReactJS/NextJS for the frontend
+- ChakraUI/Tailwind for UI
+- NodeJs/ExpressJS for the backend
 - MongoDB for Database
 - Docker for contanarization
-- Mapbox API for location-based searches and map integration
+- Mapbox API for location-based searches and map integration/ Direction API / Distance API
 - Razorpay for secure payments
 
 
