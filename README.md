@@ -45,6 +45,7 @@ This project is built using modern web technologies, including:
 - Docker for contanarization
 - Mapbox API for location-based searches and map integration/ Direction API / Distance API
 - Razorpay for secure payments
+- Redis has been implemented for caching purposes, enhancing performance and minimizing database queries.
 
 
 
