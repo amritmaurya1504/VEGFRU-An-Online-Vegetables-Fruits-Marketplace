@@ -2,12 +2,6 @@
 # <p class="heading" style="font-weight : 600">Online <span style="color : rgb(34 197 94)">Vegetable</span> and Fruit Marketplace (VegFru)</p> 
 
 
-``` 
-Source code has Private access only.
-```
-
-
-## <p style="font-weight : 600">**Build in progress**** </p> 
 
 
 <br />
