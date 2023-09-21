@@ -6,6 +6,8 @@
 
 <br />
 
+[![Website](https://img.shields.io/website?label=Video-DEMO-YT&style=for-the-badge&url=https://youtu.be/zFLqVK3Hoj4?si=tMIkCFJlVriK9wnz)](https://youtu.be/zFLqVK3Hoj4?si=tMIkCFJlVriK9wnz)
+
 [![Website](https://img.shields.io/website?label=Vegfru-client&style=for-the-badge&url=http://vegfru.vercel.app/)](http://vegfru.vercel.app/)
 
 [![Website](https://img.shields.io/website?label=Vegfru-vendor&style=for-the-badge&url=https://vendor-tau.vercel.app/)](https://vendor-tau.vercel.app/)
