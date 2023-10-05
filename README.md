@@ -24,25 +24,25 @@ Note: Fully Mobile Responsive
 
 | **Customer Features**                                     | **Vendor Features - Create and Manage Your Store**                         |
 |-----------------------------------------------------------|---------------------------------------------------------------------------|
-| **Search for Nearby Vendors on a Map:**                   | - **Store Creation:** Vendors have the ability to create and customize   |
+| **1. Search for Nearby Vendors on a Map:**                   | - **1. Store Creation:** Vendors have the ability to create and customize   |
 | - Easily search and locate nearby vendors using an        |   their own online store within the platform. They can set up the store   |
 |   interactive map interface.                              |   with their branding, logo, and store information.                        |
 |                                                           |                                                                           |
-| **View Vendor Profiles and Product Listings on the Map:** | - **Inventory Management:** Vendors have access to a robust dashboard for |
+| **2. View Vendor Profiles and Product Listings on the Map:** | - **2. Inventory Management:** Vendors have access to a robust dashboard for |
 | - Click on vendor markers on the map to access detailed   |   efficiently managing their inventory. They can add, edit, or remove     |
 |   vendor profiles and browse product listings directly   |   product listings, update quantities, and set pricing.                   |
 |   within the map interface.                               |                                                                           |
 |                                                           |                                                                           |
-| **Place Orders and Pay Securely Through Stripe:**        | - **Order Processing:** Vendors can manage orders, review details, and    |
+| **3. Place Orders and Pay Securely Through Stripe:**        | - **3. Order Processing:** Vendors can manage orders, review details, and    |
 | - Seamlessly place orders for desired products from       |   prepare deliveries directly from the dashboard.                         |
 |   vendors using the robust and secure Stripe payment     |                                                                           |
 |   gateway.                                               |                                                                           |
 |                                                           |                                                                           |
-| **Track Orders in Real-time:**                            | - **Insights:** They also have access to daily income, customer totals,   |
+| **4. Track Orders in Real-time:**                            | - **4. Insights:** They also have access to daily income, customer totals,   |
 | - Track orders, including status, details, and payments,  |   and order data for valuable business insights, aiding store performance  |
 |   in real-time from confirmation to delivery.             |   understanding.                                                          |
 |                                                           |                                                                           |
-| **Email Confirmation After Successful Order:**            |                                                                           |
+| **5. Email Confirmation After Successful Order:**            |                                                                           |
 | - Receive an email confirmation immediately after        |                                                                           |
 |   successfully placing an order.                          |                                                                           |
 
