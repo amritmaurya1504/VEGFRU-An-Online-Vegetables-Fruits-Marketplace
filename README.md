@@ -22,6 +22,8 @@ Welcome to the Online Vegetable and Fruit Marketplace project! This platform is 
 Note: Fully Mobile Responsive
 ```
 
+## <p style="font-weight : 600">App Features:</p>
+
 | **Customer Features**                                              | **Vendor Features - Create and Manage Your Store**                         |
 |--------------------------------------------------------------------|---------------------------------------------------------------------------|
 | **1. Search for Nearby Vendors on a Map:** - Easily locate nearby vendors using an interactive map interface. | **1. Store Creation:** Vendors can create and customize their online store within the platform. They can set up the store with branding, logos, and store information.  |
@@ -35,20 +37,19 @@ Note: Fully Mobile Responsive
 
 This project is built using modern web technologies, including:
 
-- ReactJS/NextJS for the frontend
-- ChakraUI/Tailwind for UI
-- NodeJs/ExpressJS for the backend
-- MongoDB for Database
-- Docker for contanarization
-- Mapbox API for location-based searches and map integration/ Direction API / Distance API
-- Razorpay for secure payments
-- Redis has been implemented for caching purposes, enhancing performance and minimizing database queries.
-
-
-
-
-
-
+| Technology         | Choices                               |
+|--------------------|---------------------------------------|
+| Frontend           | ReactJS/NextJS                        |
+| UI Framework       | ChakraUI/Tailwind                     |
+| Backend            | NodeJs/ExpressJS                      |
+| Database           | MongoDB                               |
+| Containerization   | Docker                                |
+| Location Services  | Mapbox API (Location-based searches, map integration, Direction API, Distance API) |
+| Payment Gateway    | Stripe Checkout                       |
+| Caching            | Redis (To reduce DB requests, optimize performance, and reduce response time) |
+| Webhooks           | Used for saving payment details in the database |
+| Email Notifications| Sent using Gmail SMTP server and Nodemailer |
+| Access Token & Refresh Token     | Implemented with Axios interceptors for improved user experience |
 
 
 ## <p style="font-weight : 600">Client Side Screenshots</p>
@@ -59,6 +60,7 @@ This project is built using modern web technologies, including:
   <img height="150" src="https://res.cloudinary.com/amritrajmaurya/image/upload/v1685011481/Screenshot_2023-05-25_161424_nrwgx5.png" alt="Mobile Responsive" >
   <img height="150" src="https://res.cloudinary.com/amritrajmaurya/image/upload/v1681939802/Screenshot_2023-04-20_025717_mjhf6k.png" alt="Mobile Responsive" >
   <img height="150" src="https://res.cloudinary.com/amritrajmaurya/image/upload/v1685011326/Screenshot_2023-05-25_160646_ybqkjh.png" alt="Mobile Responsive" >
+  <img height="150" src="https://res.cloudinary.com/amritrajmaurya/image/upload/v1696497245/Screenshot_2023-10-05_144156_fd4b4h.png" alt="Mobile Responsive" >
   <img height="150" src="https://res.cloudinary.com/amritrajmaurya/image/upload/v1682114151/Screenshot_2023-04-22_032216_ibbtbu.png" alt="Mobile Responsive" >
   <img height="150" src="https://res.cloudinary.com/amritrajmaurya/image/upload/v1682114151/Screenshot_2023-04-22_032159_uvthxc.png" alt="Mobile Responsive" >
   <img height="150" src="https://res.cloudinary.com/amritrajmaurya/image/upload/v1685011326/Screenshot_2023-05-25_160632_oc4i45.png" alt="Mobile Responsive" >
@@ -81,4 +83,4 @@ This project is built using modern web technologies, including:
 
 ## <p style="font-weight : 600">Contact</p>
 
-If you have any questions or feedback, please contact us at amritmaurya2014@gmail.com We'd love to hear from you!
+If you have any questions or feedback, please contact us at amritmaurya2014@gmail.com, visit my website : <a href="https://amritraj.vercel.app">click here</a> We'd love to hear from you!
