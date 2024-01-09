@@ -49,6 +49,7 @@ This project is built using modern web technologies, including:
 | Location Services  | Mapbox API (Location-based searches, map integration, Direction API, Distance API) |
 | Payment Gateway    | Stripe Checkout                       |
 | Caching            | Redis (To reduce DB requests, optimize performance, and reduce response time) |
+| Rate Limiting     | Utilized to control request rates, implemented as middleware in ExpressJS to prevent excessive requests and ensure server stability |
 | Webhooks           | Used for saving payment details in the database |
 | Email Notifications| Sent using Gmail SMTP server and Nodemailer |
 | Access Token & Refresh Token     | Implemented with Axios interceptors for improved user experience |
